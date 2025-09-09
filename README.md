@@ -34,27 +34,27 @@ Este repo permite probar aprendizaje supervizado.
 
 ## Instalación y Uso
 
-# Clona el repositorio
+#### Clona el repositorio
 
 ```bash
 git clone https://github.com/julioavantt/teacher_ai_machine_learning_fashion_mnist.git
 cd teacher_ai_machine_learning_fashion_mnist
 ```
 
-# Crea y activa un entorno virtual
+#### Crea y activa un entorno virtual
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 ```
 
-# Instala las dependencias
+#### Instala las dependencias
 
 ```bash
 pip install -r requirements.txt
 ```
 
-# Ejecuta el script principal
+#### Ejecuta el script principal
 
 ```bash
 python main.py
