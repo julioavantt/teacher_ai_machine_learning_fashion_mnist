@@ -18,7 +18,7 @@ Hola, soy Julio Avantt!
 
 - ⭐ Programo desde hace 2008.
 - 📲 Me especializo en Frontend y me interesa la IA.
-- 🎥 Enseño en Betahub/Guayerd HTML y Javascript y en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
+- 🎥 Enseño en Guayerd/IBM SkillBuilds fundamentos de IA, en Betahub/Guayerd HTML y Javascript y en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
 - ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
   <br>
@@ -44,7 +44,7 @@ cd teacher_ai_machine_learning_fashion_mnist
 # Crea y activa un entorno virtual
 
 ```bash
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 ```
 
